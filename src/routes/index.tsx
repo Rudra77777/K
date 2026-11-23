@@ -135,7 +135,7 @@ function ApologyPage() {
                 But trust me, Hippo, I wasn't ignoring you or intentionally disappearing. But as i said bahar tha mai😭
               </p>
               <p className="letter-line">
-                I promise you weren't being ghosted. There was no secret mission to escape from you cutu. 😭🦛. I already knew how it feels to be ghosted but ts lesson hits harder lol. I respect your choice if youre fed up w ts, thats understandable. Just wanted to make sure your day doesnt remain ruined because of me. Hoping you'll study today as planned and wont waste time. Its okay if you dont wanna talk but js study thats more important. I'll be on after 11pm , not before due to some work.
+                I promise you weren't being ghosted. There was no secret mission to escape from you cutu. 😭🦛. I already knew how it feels to be ghosted but ts lesson hits harder lol. I respect your choice if youre fed up w ts, thats understandable. Just wanted to make sure your day doesnt remain ruined because of me. Hoping you'll study today as planned and wont waste time. Its okay if you dont wanna talk but js study thats more important. I'll be on after 12 , not before due to some work.
               </p>
               <p className="letter-line">
                 Tere liye bournvita ka packet aur soft sweet rasgulle are waiting lol. Also im standing below your house ready for a ride😛
