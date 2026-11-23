@@ -19,7 +19,7 @@ export const Route = createFileRoute("/")({
       { title: "For Kriti, Chalak Hippo | A Little Apology" },
       {
         name: "description",
-        content: "A little pink apology for Kriti, with love from her maybe favourite hb.",
+        content: "A little pink apology for Kriti, with brain from her maybe favourite hb.",
       },
       { property: "og:title", content: "For Kriti, My Favorite Hippo" },
       {
@@ -122,20 +122,20 @@ function ApologyPage() {
           </h2>
           <article className="letter-card" id="letter" data-reveal aria-label="A heartfelt apology for Kriti">
             <div className="letter-topline">
-              <span>A little note, written with love</span>
+              <span>A little note, written with good handwriting lol</span>
               <Heart aria-hidden="true" fill="currentColor" />
             </div>
             <div className="letter-body">
               <p className="letter-line">Heyyy Kritiiii (Hippo 😋),</p>
-              <p className="letter-line">First of all, I'm sorryyy if i hurt you in any way! 😭💗</p>
+              <p className="letter-line">First of all, I'm sorryyy if i hurt you in any way today or yesterday or before! 😭💗</p>
               <p className="letter-line">
                 I know I went offline for an hour without saying anything, and I get why that might have made you feel like I was ghosting you.
               </p>
               <p className="letter-line">
-                But trust me, Hippo, I wasn't ignoring you or intentionally disappearing. But as i said bahar tha mai😭😭😭
+                But trust me, Hippo, I wasn't ignoring you or intentionally disappearing. But as i said bahar tha mai😭
               </p>
               <p className="letter-line">
-                I promise you weren't being ghosted. There was no secret mission to escape from you cutu. 😭🦛. I already knew how it feels but ts lesson hits harder lol. I respect your choice if youre fed up w ts thats understandable. Just wanted to make sure your day doesnt remain ruined because of me.
+                I promise you weren't being ghosted. There was no secret mission to escape from you cutu. 😭🦛. I already knew how it feels to be ghosted but ts lesson hits harder lol. I respect your choice if youre fed up w ts, thats understandable. Just wanted to make sure your day doesnt remain ruined because of me. Hoping you'll study today as planned and wont waste time. Its okay if you dont wanna talk but js study thats more important.
               </p>
               <p className="letter-line">
                 Tere liye bournvita ka packet aur soft sweet rasgulle are waiting lol. Also im standing below your house ready for a ride😛
@@ -230,7 +230,7 @@ function ApologyPage() {
       </section>
 
       <footer className="site-footer">
-        <span>Made with love, just for you.</span>
+        <span>Made with big hands, just for you.</span>
         <Heart aria-hidden="true" fill="currentColor" />
         <span aria-label="hippo and hearts">🦛💕</span>
       </footer>
