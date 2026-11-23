@@ -5,9 +5,9 @@ import { createFileRoute } from "@tanstack/react-router";
 import { Button } from "@/components/ui/button";
 
 const timelineMoments = [
-  { time: "00:00", dateTime: "PT0M", moment: "Last seen online 👀" },
-  { time: "00:15", dateTime: "PT15M", moment: "Hippo starts wondering 🤨" },
-  { time: "00:30", dateTime: "PT30M", moment: "Suspicion increases 📈" },
+  { time: "11:00", dateTime: "PT0M", moment: "Last seen online 👀" },
+  { time: "11:30", dateTime: "PT15M", moment: "Cutu starts wondering 🤨" },
+  { time: "12:30", dateTime: "PT30M", moment: "Suspicion increases 📈" },
   { time: "01:00", dateTime: "PT1H", moment: "Official ghosting allegations 😭" },
 ] as const;
 
@@ -127,7 +127,7 @@ function ApologyPage() {
             </div>
             <div className="letter-body">
               <p className="letter-line">Heyyy Kritiiii (Hippo 😋),</p>
-              <p className="letter-line">First of all, I'm sorryyy! 😭💗</p>
+              <p className="letter-line">First of all, I'm sorryyy if i hurt you in any way! 😭💗</p>
               <p className="letter-line">
                 I know I went offline for an hour without saying anything, and I get why that might have made you feel like I was ghosting you.
               </p>
@@ -135,16 +135,16 @@ function ApologyPage() {
                 But trust me, Hippo, I wasn't ignoring you or intentionally disappearing. But as i said bahar tha mai😭😭😭
               </p>
               <p className="letter-line">
-                I promise you weren't being ghosted. There was no secret mission to escape from you cutu. 😭🦛
+                I promise you weren't being ghosted. There was no secret mission to escape from you cutu. 😭🦛. I already knew how it feels but ts lesson hits harder lol. I respect your choice if youre fed up w ts thats understandable. Just wanted to make sure your day doesnt remain ruined because of me.
               </p>
               <p className="letter-line">
-                Tere liye bournvita ka packet aur soft sweet rasgulle are waiting lol.
+                Tere liye bournvita ka packet aur soft sweet rasgulle are waiting lol. Also im standing below your house ready for a ride😛
               </p>
               <p className="letter-line">
-                So please accept this tiny pink apology from your favourite human (hopefully still favourite 😔).
+                So please accept this tiny pink letter from your favourite human (hopefully still favourite 😔).
               </p>
-              <p className="letter-line">Now can we start eating rasgullas? 🥹</p>
-              <p className="letter-line">P.S. You're still a hippo. A very cute one, unfortunately. 😋💕</p>
+              <p className="letter-line">Now can we start eating rasgullas after you study? 🥹</p>
+              <p className="letter-line">P.S. You're still a hippo. A very cute one, unfortunately. 😋💕.</p>
             </div>
           </article>
         </div>
