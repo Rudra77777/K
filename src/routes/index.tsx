@@ -16,10 +16,10 @@ const confettiPieces = Array.from({ length: 16 }, (_, index) => index);
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
-      { title: "For Kriti, My Favorite Hippo | A Little Apology" },
+      { title: "For Kriti, Chalak Hippo | A Little Apology" },
       {
         name: "description",
-        content: "A little pink apology for Kriti, with love from her favourite human.",
+        content: "A little pink apology for Kriti, with love from her maybe favourite hb.",
       },
       { property: "og:title", content: "For Kriti, My Favorite Hippo" },
       {
@@ -86,7 +86,7 @@ function ApologyPage() {
           <span className="signature-mark" aria-hidden="true">K + H</span>
           <span className="signature-copy">
             <strong>A tiny sorry note</strong>
-            <span>for my favorite Hippo</span>
+            <span>for the Chalak Hippo</span>
           </span>
         </div>
         <span className="header-note"><Heart size={14} fill="currentColor" /> made just for you</span>
@@ -109,14 +109,14 @@ function ApologyPage() {
           <div className="hippo-stage">
             <HippoIllustration />
             <span className="float-label float-label-top"><Heart fill="currentColor" /> tiny apology</span>
-            <span className="float-label float-label-bottom"><Sparkles /> extra love inside</span>
+            <span className="float-label float-label-bottom"><Sparkles /> </span>
           </div>
         </div>
       </section>
 
       <section className="section-block letter-section" aria-labelledby="letter-title">
         <div className="section-inner">
-          <p className="section-kicker" data-reveal>from me, to you</p>
+          <p className="section-kicker" data-reveal>from 5 11, to 4 11</p>
           <h2 className="section-heading" id="letter-title" data-reveal>
             Okay, I owe you an <span>apology...</span>
           </h2>
@@ -132,18 +132,18 @@ function ApologyPage() {
                 I know I went offline for an hour without saying anything, and I get why that might have made you feel like I was ghosting you.
               </p>
               <p className="letter-line">
-                But trust me, Hippo, I wasn't ignoring you or intentionally disappearing. Sometimes I get caught up in things, but I should've at least let you know instead of just going offline.
+                But trust me, Hippo, I wasn't ignoring you or intentionally disappearing. But as i said bahar tha mai😭😭😭
               </p>
               <p className="letter-line">
-                I promise you weren't being ghosted. There was no secret mission to escape from Hippo. 😭🦛
+                I promise you weren't being ghosted. There was no secret mission to escape from you cutu. 😭🦛
               </p>
               <p className="letter-line">
-                You deserve better communication than that, and I'll try not to leave you wondering like that again.
+                Tere liye bournvita ka packet aur soft sweet rasgulle are waiting lol.
               </p>
               <p className="letter-line">
                 So please accept this tiny pink apology from your favourite human (hopefully still favourite 😔).
               </p>
-              <p className="letter-line">Now can we stop being mad at each other? 🥹💗</p>
+              <p className="letter-line">Now can we start eating rasgullas? 🥹</p>
               <p className="letter-line">P.S. You're still a hippo. A very cute one, unfortunately. 😋💕</p>
             </div>
           </article>
@@ -155,7 +155,7 @@ function ApologyPage() {
           <div className="case-heading-row">
             <div>
               <p className="section-kicker">the very serious investigation</p>
-              <h2 className="section-heading" id="case-title">THE CASE OF THE <span>MISSING HUMAN 🕵️</span></h2>
+              <h2 className="section-heading" id="case-title">THE CASE OF THE <span>MISSING RADAR 🕵️</span></h2>
             </div>
             <div className="case-stamp" aria-label="Innocent, but still sorry">
               <strong>INNOCENT</strong>
