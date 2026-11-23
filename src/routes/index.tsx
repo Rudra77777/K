@@ -141,7 +141,7 @@ function ApologyPage() {
                 Tere liye bournvita ka packet aur soft sweet rasgulle are waiting lol. Also im standing below your house ready for a ride😛
               </p>
               <p className="letter-line">
-                So please accept this tiny pink letter from your favourite human (hopefully still favourite 😔).
+                So please accept this tiny pink letter from your chikna frnd (hopefully still one 😔).
               </p>
               <p className="letter-line">Now can we start eating rasgullas after you study? 🥹</p>
               <p className="letter-line">P.S. You're still a hippo. A very cute one, unfortunately. 😋💕.</p>
